@@ -1,0 +1,160 @@
+.container {
+  width: 1380px;
+  margin: 0 auto;
+}
+body {
+  background-color: hwb(159 55% 17% / 0.334);
+}
+.header {
+  background-image: url(/img/firstproject.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 247px;
+}
+.topleft {
+  float: left;
+}
+
+.airaplan {
+  float: left;
+}
+.stays {
+  float: left;
+}
+.airaplantext {
+  vertical-align: super;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: var(--Neutrals, #fff);
+}
+.staystext {
+  vertical-align: super;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: var(--Neutrals, #fff);
+}
+.cleartopleft {
+  clear: both;
+}
+
+.topright {
+  float: right;
+}
+
+.logo {
+  float: right;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: var(--Neutrals, #fff);
+}
+.sing {
+  float: right;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: var(--Blackish-Green, #121);
+  text-align: center;
+}
+.singup {
+  background-color: white;
+  margin: 10px;
+  padding: 5px;
+}
+.cleartopright {
+  clear: both;
+}
+.centertoplogo {
+  text-align: center;
+}
+.midltoptext {
+  text-align: center;
+}
+.centertext {
+  font-style: normal;
+  line-height: normal;
+  color: var(--Neutrals, #fff);
+  margin: 0 auto;
+}
+.bigcenter {
+  font-style: normal;
+  line-height: normal;
+  text-transform: uppercase;
+  color: var(--Neutrals, #fff);
+}
+.h1center {
+  margin: bottom 16px;
+}
+
+.headmini {
+  width: 1232px;
+  height: 250px;
+  padding: 16px 32px 32px 32px;
+  background: var(--Neutrals, #fff);
+  background-color: white;
+  border-radius: 16px;
+  margin: -100px 146px 80px 146px;
+}
+.topmini {
+  float: left;
+}
+.toplefmini {
+  float: left;
+}
+.flymini {
+  float: left;
+}
+.centerline {
+  float: left;
+}
+.staysminileft {
+  float: right;
+}
+.centerline {
+  height: 48px;
+  width: 1px;
+  background: #d7e2ee;
+  margin: 10px;
+}
+.cleartwo {
+  clear: both;
+}
+.bottomline {
+  width: 70px;
+  height: 2px;
+  background-color: #2691e9cd;
+  margin: 5px;
+}
+.centermenu{
+padding: 40px;}
+.clearthree{
+clear: both;}
+.menuone{
+border: solid 1px;
+width: 324px;
+height: 50px;
+float: left;}
+.Lahore{
+float: left;
+margin: 13px;
+}
+.ionswap{
+width: 24px;
+height: 24px;
+float: right;
+margin: 10px;}
+.fromto{
+  margin: -6px;
+}
+.fromtosp{
+  background-color: white;
+  margin: 10px;
+  padding: 8px;
+}

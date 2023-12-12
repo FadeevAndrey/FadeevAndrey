@@ -1,0 +1,35 @@
+caption {
+  color: blue;
+  font-weight: 900;
+  padding: 15px;
+  background-color: rgb(173, 216, 230);
+  text-align: center;
+}
+.seckond{
+    color: blue;
+    font-weight: 900;
+    background-color: rgb(173, 216, 230);
+    text-align: center;
+    padding: 15px;
+}
+.sport{
+    width: 150px;
+    background-color: rgb(240, 230, 140);
+}
+ul{
+padding: 0 15px 10px 35px;}
+li{
+marker: inherit;}
+h3{
+text-align: center;
+padding-bottom: 15px;}
+.content{
+padding: 15px;
+background-image: url(/img/ball_football.png);
+background-position: right top;
+background-repeat: repeat-y;}
+img{
+float: left;
+width: 250px;
+height: 200px;
+margin: 10px;}
