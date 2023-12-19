@@ -1,0 +1,98 @@
+.contanier {
+  width: 1440px;
+  margin: 0 auto;
+}
+.left {
+  background-image: url(/img/Group\ 20341.png);
+  width: 195.998px;
+  height: 61px;
+  margin: 26px 0 0 46px;
+}
+.head {
+  display: flex;
+  width: 1440px;
+  margin: 0 auto;
+}
+.other {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  width: 1100px;
+  padding: 156px;
+  margin: -100px;
+}
+.other > div {
+  color: #495e4c;
+  font-family: Proxima Nova;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.call {
+  width: 210px;
+  height: 75px;
+  border-radius: 20px;
+  opacity: 0.45;
+  background: #fff;
+  padding: 10px;
+  margin: 29px;
+}
+.callmini {
+  width: 190px;
+  height: 55px;
+  flex-shrink: 0;
+  border-radius: 17px;
+  background: #5ccd6a;
+  box-shadow: 2px -2px 12px 0px rgba(34, 111, 33, 0.36) inset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.callmini > p {
+  color: #fff;
+}
+
+.contaniertwo {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.bigtext {
+  padding: 167px 1102px 579px 135px;
+}
+
+.linegreen {
+  width: 148px;
+  height: 3px;
+  background-color: violet;
+}
+
+.bigtext > .content > h1 {
+  color: #495e4c;
+  font-family: Ruberoid;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 74px; /* 115.625% */
+}
+
+.textbigsenter {
+  color: #495e4c;
+  font-family: Ruberoid;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 74px; /* 115.625% */
+}
+.textbigsentertwo {
+  color: var(--unnamed, #78c081);
+  font-family: Ruberoid;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 74px; /* 115.625% */
+  letter-spacing: 1.92px;
+  text-transform: uppercase;
+}
